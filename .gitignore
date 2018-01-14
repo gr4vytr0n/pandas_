@@ -3,4 +3,5 @@ __pycache__
 .ipynb_checkpoints
 flights.csv.zip
 856263442_T_ONTIME.csv
-weather/*
+modern/weather/*
+weather.h5
