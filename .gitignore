@@ -5,3 +5,4 @@ flights.csv.zip
 856263442_T_ONTIME.csv
 modern/weather/*
 weather.h5
+flights.h5
